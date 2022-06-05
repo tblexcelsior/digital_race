@@ -1,0 +1,2 @@
+lane_detect
+-DCATKIN_DEVEL_PREFIX=/home/tblexcelsior/Project/DigitalRace/devel -DCMAKE_INSTALL_PREFIX=/home/tblexcelsior/Project/DigitalRace/install -G Unix Makefiles
